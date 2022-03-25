@@ -1,5 +1,5 @@
 // 2022-03-10 Gleb Solomentsev
-// First iteration of funcitoning launch button to being Roast sequence (for now LED blink)
+// First iteration of functioning launch button to begin Roast sequence (for now LED blink)
 //
 
 const int ledPin =6;
