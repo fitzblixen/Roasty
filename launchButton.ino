@@ -1,7 +1,7 @@
 // 2022-03-31 Gleb Solomentsev
 // First iteration of functioning launch button to begin Roast sequence (for now LED blink)
 // including kill option (kill option works but seems a bit buggy, work this out)
-//
+
 
 const int ledPin =3;
 const int butPin =13;
